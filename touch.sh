@@ -19,3 +19,4 @@ if [ $DISK -ge 80 ]; then
 else
   echo "✅ Disk space is fine"
 fi
+   echo "user-info"
