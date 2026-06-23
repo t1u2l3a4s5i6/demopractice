@@ -15,4 +15,8 @@ echo
 echo "Hostname:"
 hostname
 
+echo
+
+echo "memory usage:"
+free -h
 
