@@ -14,4 +14,6 @@ echo
 echo "Operating System:"
 uname -o
 
-
+echo
+echo "current date and time:"
+date
